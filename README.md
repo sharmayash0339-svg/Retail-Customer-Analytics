@@ -47,6 +47,3 @@ Developed a dynamic dashboard to track:
  **VIP Segment (15%):** Contributes to 45% of total revenue. Strategy: Early access to new products.
  **At-Risk Segment (25%):** Customers haven't purchased in 6+ months. Strategy: Re-engagement email coupons.
  **New Customers:** High potential but low frequency. Strategy: Welcome loyalty program.
-
----
-*Contact me at [Your Email/LinkedIn] for a detailed walkthrough!*
